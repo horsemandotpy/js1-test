@@ -1,0 +1,22 @@
+{
+  "name": "js1-test",
+  "version": "1.0.0",
+  "description": "Test and Solution for all excercise in JS1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horsemandotpy/js1-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horsemandotpy/js1-test/issues"
+  },
+  "homepage": "https://github.com/horsemandotpy/js1-test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
