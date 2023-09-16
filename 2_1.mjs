@@ -43,8 +43,8 @@ const bubblesort_second = (array) => {
   return arr[1];
 };
 
-const a = [70, 11, 20, 4, 100];
-const test = bubblesort_second(a); // 2
-console.log(test);
+// const a = [70, 11, 20, 4, 100];
+// const test = bubblesort_second(a); // 2
+// console.log(test);
 
 module.exports = bubblesort_second;
