@@ -1,7 +1,8 @@
 // Problem:
 //    - Write a program that takes two strings as input and returns the longest common subsequence of the two strings.
 //    - Asume that the input is 2 string type, sometime with space, comma
-// Solution:
+//    
+// Solution v1:
 //    Make hastable with all common in two arr
 //    Make array hold word
 //    Make array hold word in length order
